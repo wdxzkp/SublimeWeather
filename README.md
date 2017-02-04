@@ -8,9 +8,9 @@ You can see the effect picture below .
 
 How to use
 
-1.get from github
-$cd $(SublimeText)\Data\Packages
-$git clone https://github.com/wdxzkp/SublimeWeather
+1.get from github  
+$cd $(SublimeText)\Data\Packages  
+$git clone https://github.com/wdxzkp/SublimeWeather  
 or download zip
 put the file "SublimeWeather" in Preferens-Brows Packages(SublimeText\Data\Packages)  
 2.open SublimeText  
