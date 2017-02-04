@@ -1,4 +1,5 @@
 SublimeWeather
+=============
 
 This is the plugin which achieve the function of GetWeather .
 Test under version 3 of sublime (3126).
