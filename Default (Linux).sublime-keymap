@@ -1,0 +1,5 @@
+[
+{ "keys": ["alt+shift+w"], "command": "getweather" },
+{ "keys": ["alt+shift+s"], "command": "getweatherpause" },
+{ "keys": ["alt+shift+z"], "command": "getweatherzero" }
+]
